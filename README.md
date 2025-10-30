@@ -25,7 +25,7 @@ Finally we create workbenches:
 ```sh
 cd workbenches
 helm install workbenches .
-cd ...
+cd ..
 ```
 
 ### Workbenches
